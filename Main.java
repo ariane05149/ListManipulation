@@ -5,7 +5,7 @@ public class Main {
             Manage.addTask("Do homework");
             Manage.addTask("Buy groceries");
             Manage.addTask("prepare presentation");
-            Manage.displayTasks();
+           Manage.displayTasks();
             Manage.sortTask();
             Manage.displayTasks();
             Manage.searchTask("Buy groceries");
